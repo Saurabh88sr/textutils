@@ -1,0 +1,6 @@
+rfc of making any component
+-npm start to run a project
+
+class = className
+replace all the # to /
+all tags should be close.
